@@ -1,11 +1,11 @@
 # Site settings
 author: Miranda Bonilla
-title: 
+title: Coding Journies
 header-img: img/home-bg.png
 email: bonillamiranda3@gmail.com
 copyright_name: Miranda Bonilla
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Working day by day, line by line to code a better future.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  bonillamiranda3

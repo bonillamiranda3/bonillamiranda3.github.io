@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "formatted like this Devlopment Progress"
-date:       2019-03-24 22:44:26 +0000
+title:      "Devlopment Progress"
+date:       2019-03-24 18:44:27 -0400
 permalink:  formatted_like_this_devlopment_progress
 ---
 
